@@ -36,6 +36,4 @@ public class EncryptionDecorator extends DataSourceDecorator {
     }
     return new String(result);
   }
-
-
 }
